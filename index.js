@@ -17,6 +17,6 @@ module.exports = class Nhentai extends Plugin {
   }
 
   nh(args) {
-    return `https://nhentai.net/g/${Math.floor(Math.random()*400000)}`
+    return `https://nhentai.net/g/${Math.floor(Math.random()*450000)}`
   }
 }
